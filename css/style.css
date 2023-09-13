@@ -12,9 +12,9 @@ h1 {
 }
 
 h2 {
-    color: darkgray;
-    font-size : 30px;
-}
+    font-size: 30px;
+    color: #0D0D0D;
+  }
 
 p {
     font-size: 24px;
@@ -42,6 +42,7 @@ div {
     line-height: 2; 
 }
 
+
 .red {
     background-color: red; 
     text-align: right;
@@ -62,10 +63,10 @@ div {
     border-right: 5px solid white;
     border-top: 2px solid white;
 
-  }
+}
   
 .blue h2, .blue p{
-    color: lightgray; 
+    color:  #C4C4C4;
 }
   
 
@@ -83,6 +84,7 @@ div {
     color: #707070; 
 }
 
+
 .green {
     background-color: #00D800;
     text-align: left; 
@@ -93,7 +95,6 @@ div {
     border-bottom: 0px;
 }
   
-  /* Footer Styles */
 footer {
     background: linear-gradient(0deg, #000000, #0000ff 25%, #0066ff 70%, #000000); 
     border: 5px solid white;
